@@ -1,7 +1,7 @@
-streamlit==1.35.0
-pandas==2.2.2
-matplotlib==3.8.4
-seaborn==0.13.2
-mlxtend==0.23.1
-scikit-learn==1.4.2  # mlxtend depends on it
-numpy==1.26.4        # used internally by pandas/mlxtend
+streamlit
+pandas
+matplotlib
+seaborn
+mlxtend
+scikit-learn
+numpy
